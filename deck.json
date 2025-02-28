@@ -12,7 +12,7 @@
       "authors": "Kessoku Band",
       "image": "BTR.png",
       "audio": "seishun_complex.mp3",
-      "anilist_id": "130003",
+      "anilist_id": 130003
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "authors": "Mai Sakurajima (Asami Seto), Tomoe Koga (Nao Touyama), Rio Futaba (Atsumi Tanezaki), Nodoka Toyohama (Maaya Uchida), Kaede Azusawara (Yurika Kubo), Shouko Makinohara (Inori Minase)",
       "image": "bunny_girl.png",
       "audio": "fukashigi_no_karute.mp3",
-      "anilist_id": "101291",
+      "anilist_id": 101291
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "authors": "Remo Prototype",
       "image": "garakowa.png",
       "audio": "sendan_life.mp3",
-      "anilist_id": "21042",
-    },
+      "anilist_id": 21042
+    }
   ]
 }
